@@ -1,0 +1,7 @@
+compile_logs/
+kernels/
+profiles/
+traces/
+tb_logdir/
+*.sqlite
+*.nsys-rep

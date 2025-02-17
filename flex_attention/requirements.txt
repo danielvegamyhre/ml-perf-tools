@@ -1,0 +1,2 @@
+torch
+git+https://github.com/drisspg/transformer-nuggets.git
